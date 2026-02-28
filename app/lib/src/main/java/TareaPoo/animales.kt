@@ -23,7 +23,7 @@ class Gato(nombre: String, edad: Int) : Animal(nombre, edad) {
 
 class Vaca(nombre: String, edad: Int) : Animal(nombre, edad) {
     override fun hacerSonido() {
-        println("¡Mu!")
+        println("¡Muu!")
     }
 }
 
